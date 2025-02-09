@@ -82,7 +82,7 @@ function Projects() {
         {
           title: "KTC Center TSI Project",
           description: "Website for branding services online for a Sport COmpany",
-          techStack: ["PHP", "SFTP Server","ReactJ", "Javascript/ HTML / CSS", "Boostrap"],
+          techStack: ["Linux OS","SFTP Server","PHP","Github Repos", "ReactJ", "Javascript/ HTML / CSS", "Boostrap"],
           links: ["https://institut.ktc-center.net/"]
         },
         {
