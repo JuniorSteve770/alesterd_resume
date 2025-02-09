@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alesterd_resume/static/css/main.d2bcb22d.css",
-    "main.js": "/alesterd_resume/static/js/main.5e9a38dc.js",
+    "main.js": "/alesterd_resume/static/js/main.a1b5a149.js",
     "static/media/bberg.jpg": "/alesterd_resume/static/media/bberg.657aca14188920f02714.jpg",
     "static/media/risk management.jpg": "/alesterd_resume/static/media/risk management.a0f2b5ed82f10ded7575.jpg",
     "static/media/python_stats.jpg": "/alesterd_resume/static/media/python_stats.685f98767d4a178b46fe.jpg",
@@ -18,10 +18,10 @@
     "static/media/portotrad.JPG": "/alesterd_resume/static/media/portotrad.5b56303bde8c57d7d8b5.JPG",
     "index.html": "/alesterd_resume/index.html",
     "main.d2bcb22d.css.map": "/alesterd_resume/static/css/main.d2bcb22d.css.map",
-    "main.5e9a38dc.js.map": "/alesterd_resume/static/js/main.5e9a38dc.js.map"
+    "main.a1b5a149.js.map": "/alesterd_resume/static/js/main.a1b5a149.js.map"
   },
   "entrypoints": [
     "static/css/main.d2bcb22d.css",
-    "static/js/main.5e9a38dc.js"
+    "static/js/main.a1b5a149.js"
   ]
 }
